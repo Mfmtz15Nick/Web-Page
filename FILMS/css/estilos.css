@@ -1,0 +1,82 @@
+body{
+    background: black;
+    font-size:16px;
+    margin:0px auto;
+    
+}
+header img{
+    width: 100%;
+}
+#rojo{
+    height: 8px;
+    margin-top: -20px;
+}
+#seccion02{
+    margin:0px auto;
+    background: white;
+    border-radius: 5px;
+    width: 95%;
+}
+#sec02art01{
+    margin-left: 20px;
+}
+#table01 tr td article img{
+    width: 100%;
+    height: 100%;    
+}
+#table01 tr td article:hover{
+    width: 95%;
+    height: 95%;
+}
+#seccion02 article{
+    display: inline-block;
+}
+#sec02art02{
+    
+    padding-left: 15%;
+}
+#sec03art01 img{
+    margin-left: 20%;
+    width: 60%;
+}
+#sec03art02 img{
+    height:40px;
+    width: 40px;
+    padding: 5px;
+}
+#sec03art02 ul li{
+    display: inline-block;
+}
+#sec03art02 ul{
+    margin-left: 80%;
+}
+#marquesina{
+    color: white;
+}
+#marquesina img{
+    height: 50px;
+    width: 300px;
+}
+#sec03art03{
+    margin-left: 82%;
+    width: 200px;
+    
+}
+#onda{
+    width: 20%;
+    height: 20%;
+    margin-left: 40%;
+}
+
+.letragrande{
+    font-size: 20px;
+}
+.nito{
+    font-weight: bold;
+}
+.letrachica{
+    font-size: 16px;
+    color: white;
+}
+
+

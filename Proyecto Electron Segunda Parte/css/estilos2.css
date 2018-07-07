@@ -1,0 +1,66 @@
+body{
+    background: rgb(226, 226, 226);
+	font-size: 16px;
+	margin: 0 auto;
+	max-width: 1024px;
+	min-width: 1024px;
+	
+}
+
+#seccion01{
+	background: #c6def7;
+	border-radius: 3%;
+	height: 620px;
+	margin-left: 270px;
+	width: 500px;
+	
+	
+	text-align: center;
+}
+
+#btnPDF{
+	background: rgb(179, 178, 182);
+	margin-left: 445px;
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 120px;
+}
+
+#grupo{
+	
+	margin-top: 5px;
+	margin-bottom: 5px;
+	padding: 5px;
+	position: relative;
+	width: 40px;
+	height: 40px;
+}
+
+#h1{
+	text-align: center;
+	margin-top: 10px;
+	
+}
+#listado{
+	padding:  10px;
+}
+
+#listado button{
+	background: rgb(138, 174, 189);
+	padding-right: 300px;
+	margin-left: 550px;
+	margin-top: -40px;
+	font-weight: bold;
+	
+	
+}
+
+#impresora{
+	width: 20px;
+	height: 20px;
+}
+
+.nito
+ {
+	font-weight: bold;
+ }

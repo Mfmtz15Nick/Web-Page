@@ -1,0 +1,33 @@
+body{
+    background: white;
+    font-size:16px;
+    margin:0px auto;
+    
+    
+}
+header img{
+    width: 100%;
+}
+#linea{
+    background: rgb(250, 164, 52);
+}
+
+
+#seccion01 article{
+    display: inline-block;
+    text-align: center;
+    margin-top: 5%;
+    vertical-align: top;
+}
+
+#seccion01 article img{
+    border-radius: 200px;
+    width: 40%;
+}
+#sec01art01{
+    margin-left: 5%;
+}
+#seccion02{
+    background: black;
+   
+}
